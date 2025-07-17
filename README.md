@@ -52,7 +52,3 @@ This is a geospatially intelligent **route planning API** built with Django 3.2.
   "start": "Los Angeles, CA",
   "end": "Denver, CO"
 }
-
-
----
-
