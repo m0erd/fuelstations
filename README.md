@@ -36,6 +36,12 @@ This is a geospatially intelligent **route planning API** built with Django 3.2.
 
 ---
 
+
+### ⚠️ Disclaimer
+> **Note:** The version of the project shared here is intended for **demonstration purposes only**. While it illustrates the core functionality and logic — including route planning, geodesic distance calculations, and fuel optimization — certain aspects (e.g., **accuracy of calculations**) have been simplified for clarity and time constraints **on purpose**.
+
+---
+
 ## 📦 API Endpoint
 
 ### `POST /api/route/`
@@ -49,7 +55,4 @@ This is a geospatially intelligent **route planning API** built with Django 3.2.
 
 
 ---
-
-### ⚠️ Disclaimer
-> **Note:** The version of the project shared here is intended for **demonstration purposes only**. While it illustrates the core functionality and logic — including route planning, geodesic distance calculations, and fuel optimization — certain aspects (e.g., **accuracy of calculations**) have been simplified for clarity and time constraints **on purpose**.
 
